@@ -1,6 +1,5 @@
 # Chat-Room-with-Network-Programming
- - EE422C Project 7 submission by
- - <Ashvin Roharia>
+ - EE422C Project 7 submission by Ashvin Roharia
  - Fall 2016
 
 JAVA Files:
